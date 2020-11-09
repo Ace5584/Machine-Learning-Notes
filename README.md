@@ -5,7 +5,14 @@
 This Repository Contains All notes for TensorFlow Machine Learning
 - All the notes made in this repository has been made with Notion
 
-
+Notes for Hands On ML includes:
+- Chapter 10
+- Chapter 11
+- Chapter 12
+- Chapter 13
+- Chapter 14
+- Chapter 15
+- Chapter 15
 
 
 Notes are based on:
