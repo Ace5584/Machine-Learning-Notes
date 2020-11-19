@@ -19,6 +19,7 @@ Notes are based on:
 - Hands-on Machine Learning With Scikit-learn, Kears & TensorFlow (BOOK)
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) (COURSE)
 - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) (COURSE)
+- [Tech With Tim Machine Learning Youtube Playlist](https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) (YOUTUBE COURSE)
 
 ## MIT Machine Learning Notes
 
