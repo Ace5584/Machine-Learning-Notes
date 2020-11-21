@@ -23,10 +23,15 @@ Notes are based on:
 
 ## MIT Machine Learning Notes
 
-<img src="https://i.imgur.com/cDtTsgt.png" width=400px align="right">
+<img src="https://i.imgur.com/cDtTsgt.png" width=200px align="right">
 
 Second part of the notes is on MIT Machine Learning, it's based on:
 
 MIT 6S191 Youtube Course: [LINK](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&ab_channel=AlexanderAmini)
 
+## Code in Google Drive
+
+Hands On Machine Learning Google Drive: [LINK](https://drive.google.com/drive/folders/1F54WeLEH5TakIfzDZCkVBDiyKAEvFRz3?usp=sharing)
+
+<img src="https://i.imgur.com/LwE3Rcx.png" width=200px align="right">
 
