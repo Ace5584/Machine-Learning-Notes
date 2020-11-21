@@ -12,7 +12,7 @@ Notes for Hands On ML includes:
 - Chapter 13
 - Chapter 14
 - Chapter 15
-- Chapter 15
+- Chapter 16
 
 
 Notes are based on:
