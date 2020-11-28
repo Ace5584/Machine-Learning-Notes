@@ -10,6 +10,8 @@ Notes for Hands On ML includes:
 - Chapter 11
 - Chapter 12
 - Chapter 13
+<img src="https://i.imgur.com/h46osOG.jpg" width=200px align="right">
+
 - Chapter 14
 - Chapter 15
 - Chapter 16
