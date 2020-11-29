@@ -14,6 +14,7 @@ Notes for Hands On ML includes:
 - Chapter 15
 - Chapter 16
 
+<img src="https://i.imgur.com/h46osOG.jpg" width=150px align="right">
 
 Notes are based on:
 - Hands-on Machine Learning With Scikit-learn, Kears & TensorFlow (BOOK)
