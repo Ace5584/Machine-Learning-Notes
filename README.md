@@ -28,9 +28,10 @@ Notes are based on:
 
 <img src="https://i.imgur.com/cDtTsgt.png" width=200px align="right">
 
-Second part of the notes is on MIT Machine Learning, it's based on:
+Notes on MIT Machine Learning, it's based on:
 
 MIT 6S191 Youtube Course: [LINK](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&ab_channel=AlexanderAmini)
+Link To 6s191 GitHub Page: [LINK](https://github.com/aamini/introtodeeplearning)
 
 ## Code in Google Drive
 
