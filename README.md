@@ -38,3 +38,9 @@ Hands On Machine Learning Google Drive: [LINK](https://drive.google.com/drive/fo
 
 <img src="https://i.imgur.com/LwE3Rcx.png" width=200px align="right">
 
+## Other Libraries
+
+This also includes notes in code format of other libraries like:
+- Numpy
+- Matplotlib.pyplot
+- Pandas
