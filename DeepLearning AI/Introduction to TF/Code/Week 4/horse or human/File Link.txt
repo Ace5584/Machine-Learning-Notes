@@ -1,0 +1,2 @@
+hourse-or-human: https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip
+validation: https://storage.googleapis.com/laurencemoroney-blog.appspot.com/validation-horse-or-human.zip
