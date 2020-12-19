@@ -44,7 +44,10 @@ Link To 6s191 GitHub Page: [LINK](https://github.com/aamini/introtodeeplearning)
 
 ## Important Notes
 
-Important notes are on Tensorflow Library, It currently contains notes for:
+Important notes are on Tensorflow Library, it includes both PDF notes and jupyter-notebbok code samples.
+
+Here is the current list of topics covered in important notes:
+
 - Batching and Shuffling Data
 - CallBacks
 - Loading Data
