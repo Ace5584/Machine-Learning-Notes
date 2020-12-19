@@ -55,6 +55,10 @@ Here is the current list of topics covered in important notes:
 - Predicting data
 - Transfer Learning
 
+## Mock Test Questions
+
+Mock Test Questions Folder contains practice questions for Google Tensorflow Certification. 
+
 ## Other Libraries
 
 This also includes notes in code format of other libraries like:
