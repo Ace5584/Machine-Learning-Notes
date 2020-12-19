@@ -42,6 +42,16 @@ MIT 6S191 Course Video: [LINK](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=
 
 Link To 6s191 GitHub Page: [LINK](https://github.com/aamini/introtodeeplearning)
 
+## Important Notes
+
+Important notes are on Tensorflow Library, It currently contains notes for:
+- Batching and Shuffling Data
+- CallBacks
+- Loading Data
+- Ploting Results using PLT
+- Predicting data
+- Transfer Learning
+
 ## Other Libraries
 
 This also includes notes in code format of other libraries like:
