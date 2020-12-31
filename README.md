@@ -28,6 +28,7 @@ Notion Link to Notes: [Notes](https://www.notion.so/Hands-on-Machine-Learning-wi
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) (COURSE)
 - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) (COURSE)
 - [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) (COURSE)
+- [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) (COURSE)
 
 ## Youtube Courses
 
