@@ -1,6 +1,10 @@
 # TensorFlow Machine Learning Notes
 
-<img alt="Notion" width=256px align="right" src="https://i.imgur.com/OawEvAj.png">
+<img align="right" width="200px" src="https://i.imgur.com/hakzdXh.png">
+
+I am a Google TensorFlow certified developer and these notes are used to pass tensorflow certification exam
+
+<img alt="Notion" width=150px align="right" src="https://i.imgur.com/OawEvAj.png">
 
 This Repository Contains notes for Machine Learning with TensorFlow 2.0 or higher
 - All the notes made in this repository has been made with Notion
