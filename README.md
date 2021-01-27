@@ -30,10 +30,6 @@ Notion Link to Notes: [Notes](https://www.notion.so/Hands-on-Machine-Learning-wi
 - [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) (COURSE)
 - [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) (COURSE)
 
-## Youtube Courses
-
-- [Tech With Tim Machine Learning Youtube Playlist](https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) (YOUTUBE COURSE)
-
 ## MIT Machine Learning 6S191 Course
 
 <img src="https://i.imgur.com/cDtTsgt.png" width=200px align="right">
